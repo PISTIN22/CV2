@@ -1,0 +1,10 @@
+C:\Users\excalıbur\source\repos\CV\CV\bin\Debug\CV.exe.config
+C:\Users\excalıbur\source\repos\CV\CV\bin\Debug\CV.exe
+C:\Users\excalıbur\source\repos\CV\CV\bin\Debug\CV.pdb
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.csproj.AssemblyReference.cache
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.Form1.resources
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.Properties.Resources.resources
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.csproj.GenerateResource.cache
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.csproj.CoreCompileInputs.cache
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.exe
+C:\Users\excalıbur\source\repos\CV\CV\obj\Debug\CV.pdb
